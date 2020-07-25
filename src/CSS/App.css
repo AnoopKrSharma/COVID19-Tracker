@@ -1,0 +1,13 @@
+.row{
+  margin:16px;
+}
+.card{
+  display: inline-block !important;
+  width: 100%;
+}
+.whiteFont{
+  color:white;
+}
+.smallFont{
+  font-size: 12px;
+}
